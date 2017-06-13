@@ -31,3 +31,15 @@ func main() {
 
 	<-done
 }
+
+// [ `go run closing-channels.go` | done: 266.719026ms ]
+// 	sent job 0
+// 	sent job 1
+// 	sent job 2
+// 	received job 0
+// 	sent job 3
+// 	sent all jobs
+// 	received job 1
+// 	received job 2
+// 	received job 3
+// 	received all jobs

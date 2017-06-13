@@ -15,3 +15,6 @@ func main() {
 	msg := <-messages
 	fmt.Println(msg)
 }
+
+// [ `go run channels.go` | done: 568.211781ms ]
+// 	ping

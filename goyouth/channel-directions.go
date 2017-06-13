@@ -24,3 +24,6 @@ func main() {
 	pong(pings, pongs)
 	fmt.Println(<-pongs)
 }
+
+// [ `go run channel-directions.go` | done: 238.376456ms ]
+// 	passed message

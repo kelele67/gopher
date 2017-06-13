@@ -39,3 +39,7 @@ func main() {
 		fmt.Println("timeout 2")
 	}
 }
+
+// [ `go run timeouts.go` | done: 3.308088091s ]
+// 	timeout 1
+// 	result 2

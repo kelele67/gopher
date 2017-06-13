@@ -21,3 +21,6 @@ func main() {
 
 	<-done
 }
+
+// [ `go run channel-synchronization.go` | done: 1.372570925s ]
+// 	working...done

@@ -15,3 +15,7 @@ func main() {
 	fmt.Println(<-messages)
 	fmt.Println(<-messages)
 }
+
+// [ `go run channel-buffering.go` | done: 375.974242ms ]
+// 	buffered
+// 	channel

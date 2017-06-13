@@ -33,3 +33,8 @@ func main() {
 		fmt.Println("no activity")
 	}
 }
+
+// [ `go run non-blocking-channel-operations.go` | done: 237.349716ms ]
+// 	no message received
+// 	no message sent
+// 	no activity

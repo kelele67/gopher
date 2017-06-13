@@ -30,3 +30,7 @@ func main() {
 		}
 	}
 }
+
+// [ `go run select.go` | done: 2.267631615s ]
+// 	received one
+// 	received two
