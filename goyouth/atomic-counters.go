@@ -27,7 +27,6 @@ func main() {
 			}
 		}()
 	}
-
 	time.Sleep(time.Second)
 
 	// 为了在计数器还在被其它 Go 协程更新时，安全的使用它，
