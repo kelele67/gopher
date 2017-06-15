@@ -4,6 +4,8 @@
 
 ### gokid
 
+[Learn from runoob.com](http://www.runoob.com/go/go-tutorial.html)
+
 * Go 语言基础语法
 * Go 语言数据类型
 * Go 语言函数
@@ -14,6 +16,8 @@
 * Go 错误处理
 
 ### goyouth
+
+[Learn from everyx](https://github.com/everyx/gobyexample)
 
 * 通道，通道缓冲，通道同步，通道方向，通道选择器  
 * 超时处理，非阻塞通道操作，通道的关闭，通道遍历  
@@ -32,4 +36,11 @@
 ### goadult
 
 * 找出10000以内所有的素数
-* golang 的线程池实现
+* [golang 的 "线程" 池实现](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
+* [一个简单的 HTTP Server](https://medium.freecodecamp.com/how-i-built-a-web-server-using-go-and-on-chromeos-3b83e4c2da5f)
+* [How To Create A Simple RESTful Service In Go](http://goinbigdata.com/how-to-create-a-simple-restful-service-in-go/)
+* [How To Run Go RESTful Service In Docker On Mac OS X](http://goinbigdata.com/how-to-run-go-restful-service-in-docker-on-mac-os-x/)
+* [RESTful web service in Go using Goji](http://goinbigdata.com/restful-web-service-in-go-using-goji/)
+* [How To Build Microservice With MongoDB In Golang](http://goinbigdata.com/how-to-build-microservice-with-mongodb-in-golang/)
+* 
+
