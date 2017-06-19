@@ -4,7 +4,7 @@
 
 ### gokid
 
-[Learn from runoob.com](http://www.runoob.com/go/go-tutorial.html)
+Learn from [runoob.com](http://www.runoob.com/go/go-tutorial.html)
 
 * Go 语言基础语法
 * Go 语言数据类型
@@ -17,7 +17,7 @@
 
 ### goyouth
 
-[Learn from everyx](https://github.com/everyx/gobyexample)
+Learn from [everyx](https://github.com/everyx/gobyexample)
 
 * 通道，通道缓冲，通道同步，通道方向，通道选择器  
 * 超时处理，非阻塞通道操作，通道的关闭，通道遍历  
@@ -42,5 +42,5 @@
 * [How To Run Go RESTful Service In Docker On Mac OS X](http://goinbigdata.com/how-to-run-go-restful-service-in-docker-on-mac-os-x/)
 * [RESTful web service in Go using Goji](http://goinbigdata.com/restful-web-service-in-go-using-goji/)
 * [How To Build Microservice With MongoDB In Golang](http://goinbigdata.com/how-to-build-microservice-with-mongodb-in-golang/)
-* 
+* [Go 语言实现 Paxos 算法](http://happyer.github.io/2017/03/15/2017-03-15-paxos/)
 
