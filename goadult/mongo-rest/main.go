@@ -32,6 +32,7 @@ type Book struct {
 }
 
 func main() {
+	// Getting a session:
 	session, err := mgo.Dial("localhost")
 	if err != nil {
 		panic(err)
@@ -51,6 +52,8 @@ func main() {
 }
 
 func ensureIndex(s *mgo.Session) {
+	// Single session does not allow concurrent processing,
+	// therefore multiple sessions are usually required.
 	session := s.Copy()
 	defer session.Close()
 

@@ -1,6 +1,6 @@
 ## gopher
 
-**Learn Golang**
+**学习GO语言过程中敲的一些代码**
 
 ### gokid
 
